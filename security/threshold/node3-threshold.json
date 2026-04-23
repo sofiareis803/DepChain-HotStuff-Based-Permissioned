@@ -1,0 +1,7 @@
+{
+  "replicaIndex" : 2,
+  "threshold" : 3,
+  "totalReplicas" : 5,
+  "aggregatePublicKey" : "rRHMBZtgVv+z7MDX1zwTPhrsHUxHM9Z1Xvx1Gsz7c30=",
+  "privateShare" : "nbtzjSnAciq+sHvtLLbFjRUI3T15tj4YfOOWBlMROgg="
+}

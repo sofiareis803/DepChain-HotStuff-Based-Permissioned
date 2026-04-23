@@ -1,0 +1,14 @@
+test_name,fault_type,affected_phase,duration_seconds,status
+test_none_N/A,none,N/A,24.488,OK
+test_silent_PREPARE,silent,PREPARE,71.332,OK
+test_silent_PRECOMMIT,silent,PRECOMMIT,84.658,OK
+test_silent_COMMIT,silent,COMMIT,69.424,OK
+test_silent_DECIDE,silent,DECIDE,68.364,OK
+test_conflict_PREPARE,conflict,PREPARE,61.639,OK
+test_conflict_PRECOMMIT,conflict,PRECOMMIT,60.273,OK
+test_conflict_COMMIT,conflict,COMMIT,66.863,OK
+test_conflict_DECIDE,conflict,DECIDE,66.432,OK
+test_delay_PREPARE,delay,PREPARE,79.319,OK
+test_delay_PRECOMMIT,delay,PRECOMMIT,77.684,OK
+test_delay_COMMIT,delay,COMMIT,71.645,OK
+test_delay_DECIDE,delay,DECIDE,75.181,OK
